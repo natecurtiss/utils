@@ -6,7 +6,7 @@ using static UnityEditor.AssetDatabase;
 
 namespace NateCurtiss.Utils
 {
-    static class ToolsMenu
+    static class Folders
     {
         static readonly string _root = Application.dataPath;
         
